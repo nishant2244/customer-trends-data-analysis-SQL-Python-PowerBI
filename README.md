@@ -45,4 +45,5 @@ Loyalty Rewards: Implement programs to move "Returning" shoppers into the "Loyal
 Targeted Marketing: Focus high-budget campaigns on the "Young Adult" demographic and promote "Express Shipping" to increase average order value.
 
 
-6.  Demo :- The demo of dashboard is :![Alt Text]("C:\Users\Nishant\OneDrive\Pictures\Screenshots\Screenshot 2026-02-26 204219.png")
+6.  Demo :- The demo of dashboard is :<img width="1920" height="1080" alt="Screenshot 2026-02-26 204219" src="https://github.com/user-attachments/assets/d091758c-636b-415c-8ad6-8d375a960dcd" />
+
